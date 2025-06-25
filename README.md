@@ -6,5 +6,4 @@ This are the schematic of the open-loop buck converter simulation with the speci
 Vin = 24V and targeted Vout = 12V
 Switching frequency (fs) = 50kHz
 Output Power (P) = 60W resulting in Iout = 5A
-L = 80uH
-C = 33uF
+L = 80uH ; C = 33uF
