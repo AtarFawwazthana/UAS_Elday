@@ -39,6 +39,7 @@ the relative ripple from the simulation result is still on the tolerated value (
 
 # PV Grid Inverter Schematic
 ![image](https://github.com/user-attachments/assets/25d31418-265b-4dec-ad01-4c07140e383e)
+![image](https://github.com/user-attachments/assets/6aee9bcc-c273-4533-b937-2a6eec1d5209)
 
 
 
